@@ -1,0 +1,10 @@
+Adams,0.267
+Baker,0.300
+Smith,0.285
+Jones,0.310
+Brown,0.250
+Davis,0.275
+Miller,0.290
+Wilson,0.265
+Moore,0.305
+Taylor,0.280

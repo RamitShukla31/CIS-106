@@ -1,0 +1,5 @@
+Adams,10000
+Baker,9000
+Smith,8000
+Jones,5000
+
